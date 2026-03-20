@@ -12,3 +12,4 @@ C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\Calculator\obj\Debug\net1
 C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\Calculator\obj\Debug\net10.0\Calculator.pdb
 C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
 C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\Calculator\obj\Debug\net10.0\ref\Calculator.dll
+C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\Calculator\obj\Debug\net10.0\Calculator.sourcelink.json
