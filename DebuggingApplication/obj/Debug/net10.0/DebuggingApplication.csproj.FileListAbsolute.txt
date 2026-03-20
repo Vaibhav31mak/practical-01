@@ -1,0 +1,15 @@
+C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\DebuggingApplication\obj\Debug\net10.0\DebuggingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\DebuggingApplication\obj\Debug\net10.0\DebuggingApplication.AssemblyInfoInputs.cache
+C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\DebuggingApplication\obj\Debug\net10.0\DebuggingApplication.AssemblyInfo.cs
+C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\DebuggingApplication\obj\Debug\net10.0\DebuggingApplication.csproj.CoreCompileInputs.cache
+C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\DebuggingApplication\obj\Debug\net10.0\DebuggingApplication.sourcelink.json
+C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\DebuggingApplication\bin\Debug\net10.0\DebuggingApplication.exe
+C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\DebuggingApplication\bin\Debug\net10.0\DebuggingApplication.deps.json
+C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\DebuggingApplication\bin\Debug\net10.0\DebuggingApplication.runtimeconfig.json
+C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\DebuggingApplication\bin\Debug\net10.0\DebuggingApplication.dll
+C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\DebuggingApplication\bin\Debug\net10.0\DebuggingApplication.pdb
+C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\DebuggingApplication\obj\Debug\net10.0\DebuggingApplication.dll
+C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\DebuggingApplication\obj\Debug\net10.0\refint\DebuggingApplication.dll
+C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\DebuggingApplication\obj\Debug\net10.0\DebuggingApplication.pdb
+C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\DebuggingApplication\obj\Debug\net10.0\DebuggingApplication.genruntimeconfig.cache
+C:\Users\vaibhav.makwana\source\repos\LMS\practical-01\DebuggingApplication\obj\Debug\net10.0\ref\DebuggingApplication.dll

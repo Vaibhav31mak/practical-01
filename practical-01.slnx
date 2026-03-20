@@ -3,4 +3,5 @@
     <File Path=".gitignore" />
   </Folder>
   <Project Path="Calculator/Calculator.csproj" />
+  <Project Path="DebuggingApplication/DebuggingApplication.csproj" />
 </Solution>
